@@ -12,14 +12,6 @@ function App() {
         <p>
           I'm a passionate web developer and I love building amazing websites.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
       <section className="About">
         <h2>About Me</h2>
